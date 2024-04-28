@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: rgb(208, 210, 211);
+    font-family: Helvetica, sans-serif;
+}
+#game h1{
+    font-size: 18px;
+}
+#board {
+    background-color: rgb(128, 126, 126);
+    box-shadow: 5px 5px 0px rgb(36, 36, 36);
+    border: 5px solid rgb(75, 75, 75);
+    border-top: 5px solid rgb(10, 64, 82);
+    border-bottom: 5px solid rgb(10, 64, 82);
+    border-radius: 10px;
+}
+#reset{
+    cursor: pointer;
+    margin-top: 5px;
+    box-shadow: 2px 2px 0px rgb(36, 36, 36);
+    border: 2px solid rgb(75, 75, 75);
+    border-radius: 150px; 
+    background-color: rgb(31, 31, 31);
+}
+#reset h2{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
